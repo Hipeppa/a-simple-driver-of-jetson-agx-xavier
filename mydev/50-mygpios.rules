@@ -1,0 +1,2 @@
+KERNEL=="mygpio*",ACTION=="add",MODE="0666"
+
